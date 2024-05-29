@@ -7,6 +7,10 @@ https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/E-Commerce%20Reve
 Applied Statistics Project - Milestone 1 and Milestone 2
 The Applied Statistics Project - Milestone tackles three distinct problems in different industries. It involves data analysis and hypothesis testing to provide insights on stone suitability for printing, the effectiveness of a fitness program, and the impact of dentists and implant methods on metal implant hardness. These findings will support data-driven decision-making and operational improvements for the respective companies.
 The code as well as the business reports prepared are available in the following path: 
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/business_report_project1_RATHIS.pdf
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/support_doc_project1_RATHIS.ipynb
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/business_report_project2_RATHIS.pdf
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/support_doc_project2_RATHIS.ipynb
 
 
 
