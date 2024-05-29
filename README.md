@@ -33,4 +33,11 @@ https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/business_report_l
 https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/support_doc_log_reg_RATHIS.ipynb
 
 
+Introduction to Neural Networks & Deep Learning Project
+A communications equipment manufacturing company has a product which is responsible for emitting informative signals. Company wants to build a machine learning model which can help the company to predict the equipment’s signal quality using various parameters.
+
+The project details as well as the detailed solutions are available in the following link: 
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/Intro%2Bto%2BNN%2BProject%2BRathi%2BS%2BPartA.html
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/Intro%2Bto%2BNN%2BProject%2BRathi%2BS%2BPartB.html
+
 
