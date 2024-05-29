@@ -23,4 +23,14 @@ https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/support_doc_clust
 https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/business_report_pca_RATHIS.pdf
 https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/support_doc_pca_RATHIS.ipynb
 
+Project - Supervised Learning
+This project has two parts a) Computer-activ Project using Linear Regression which aims to predict the percentage time the computer remains in user mode. b) Women's contraceptive Project using Classification techniques to classify how many women use or not use contraceptive
+
+The project details as well as the detailed solutions are available in the following link: 
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/business_report_lin_reg_RATHIS.pdf
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/support_doc_lin_reg_RATHIS.ipynb
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/business_report_log_reg_RATHIS.pdf
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/support_doc_log_reg_RATHIS.ipynb
+
+
 
