@@ -41,3 +41,16 @@ https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/Intro%2Bto%2BNN%2
 https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/Intro%2Bto%2BNN%2BProject%2BRathi%2BS%2BPartB.html
 
 
+
+Computer Vision
+Company X owns a movie application and repository which caters movie streaming to millions of users who on subscription basis. Company wants to automate the process of cast and crew information in each scene from a movie such that when a user pauses on the movie and clicks on cast information button, the app will show details of the actor in the scene. Company has an in-house computer vision and multimedia experts who need to detect faces from screen shots from the movie scene.
+
+The dataset comprises of images and its mask for corresponding human face. The objective is to build a face detection system.
+
+The dataset comprises of face images. The objective is to create an image dataset to be used by AI team build an image classifier data. Profile images of people are given.
+
+2. Company X intends to build a face identification model to recognise human faces.
+
+The dataset comprises of images and its mask where there is a human face. The objective is to have a  Face Aligned Face Dataset from Pinterest. 
+
+The project details as well as the detailed solutions are available in the following link: 
