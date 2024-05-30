@@ -37,9 +37,8 @@ Introduction to Neural Networks & Deep Learning Project
 A communications equipment manufacturing company has a product which is responsible for emitting informative signals. Company wants to build a machine learning model which can help the company to predict the equipment’s signal quality using various parameters.
 
 The project details as well as the detailed solutions are available in the following link: 
-https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/Intro%2Bto%2BNN%2BProject%2BRathi%2BS%2BPartA.html
-https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/Intro%2Bto%2BNN%2BProject%2BRathi%2BS%2BPartB.html
-
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/Intro%2Bto%2BNN%2BProject%2BRathi%2BS%2BPart%2BA.ipynb
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/Intro%2Bto%2BNN%2BProject%2BRathi%2BS%2BPart%2BB.ipynb
 
 
 Computer Vision
@@ -54,3 +53,8 @@ The dataset comprises of face images. The objective is to create an image datase
 The dataset comprises of images and its mask where there is a human face. The objective is to have a  Face Aligned Face Dataset from Pinterest. 
 
 The project details as well as the detailed solutions are available in the following link: 
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/CV_Project_Part_A_RathiS.ipynb
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/CV_Project_Part_B_RathiS.ipynb
+https://github.com/RathiPratuish/Rathi-S-AI-Projects/blob/main/CV_Project_Part_C_RathiS.ipynb
+
+
